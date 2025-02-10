@@ -13,3 +13,4 @@ This project explores **high-performance path planning** using **JAX, CUDA, and 
 ✅ **Scaling Analysis** (Compute, model size, and data scaling laws)  
 
 ## 📁 Project Structure
+📂 high-performance-planning/ ├── 📜 README.md # Project Documentation ├── 📜 requirements.txt # Dependencies ├── 📝 experiments/ # Benchmarking results & scaling analysis ├── 🏗️ src/ # Implementation files │ ├── a_star.py # Baseline A* planner │ ├── jax_a_star.py # JAX-accelerated A* planner │ ├── cuda_a_star.cu # CUDA-optimized A* planner │ ├── differentiable_planner.py # Differentiable path optimization │ ├── llm_heuristics.py # LLM-based heuristic integration │ ├── rl_planner.py # RL-based heuristic learning │ ├── utils.py # Helper functions │ └── visualize.py # Visualization tools └── 📜 benchmarks/ # Performance comparison results
