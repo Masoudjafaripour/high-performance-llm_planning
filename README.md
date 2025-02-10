@@ -42,3 +42,12 @@ Additionally, we analyze **scaling laws** in:
 │   ├── utils.py         # Helper functions
 │   └── visualize.py     # Visualization tools
 └── 📜 benchmarks/       # Performance comparison results
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/high-performance-planning.git
+cd high-performance-planning
+
